@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinner control</string>
+    <string name="hello">hey there!!!</string>
+    <string-array name="value">
+        <item>Pen</item>
+        <item>Pencil</item>
+        <item>Marker</item>
+        <item>Sharpener</item>
+        <item>Eraser</item>
+    </string-array>
+</resources>
